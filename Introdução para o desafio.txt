@@ -1,0 +1,2 @@
+Fiz um projeto bem básico de interface em c#
+tenho pouco conhecimento mais estou sempre buscando melhorias
